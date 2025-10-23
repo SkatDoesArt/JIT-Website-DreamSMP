@@ -1,0 +1,81 @@
+div#banner{
+	background-image: url("pictures/banner.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 5%;
+}
+div#menu{
+	background-color: #79B89D;
+	background-size: cover;
+	padding-right: 66.8%;
+	display: inline-flex;
+	justify-content: space-around;
+}
+div#eroner{
+	font-style: italic;
+	font-weight: bold;
+	text-align: right;
+	padding-right: 15px;
+}
+div#factions{
+	display: flex;
+	flex-direction: row;
+	justify-items: space-between;
+	padding-right: 0;
+}
+.map{
+	padding-left: 20px;
+	height: 40%;
+	width: 30%;
+}
+.flags{
+	display: flex;
+	flex-direction: column;
+	justify-content: right;
+	justify-items: left;
+	height: 50px;
+	width: 50px;
+	padding-left: 50px;
+}
+body{
+	margin: 0;
+}
+h1{
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+	font-weight: bold;
+	letter-spacing: 15px;
+}
+a{
+	color: black !important;
+	font-family: 'Play', sans-serif;
+	text-decoration: none;
+}
+a:hover{
+	color: #b2e4db !important;
+}
+button{
+	color: black;
+	font-family: "Play";
+	font-size: larger;
+	font-weight: bold;
+	background: none;
+	border: none;
+}
+p{
+	font-family: 'Arima', cursive;
+	font-size: inherit;
+	font-weight: 500;
+	line-height: 1.75;
+	margin: 24px 0 15px;
+	padding-left: 20px;
+}
+ul{
+	font-family: 'Arima', cursive;
+	line-height: 1.30;
+	padding-left: 10px;
+}
+img{
+	max-height: 100%;
+	max-width: 100%;
+}
