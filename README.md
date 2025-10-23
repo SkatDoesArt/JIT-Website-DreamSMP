@@ -5,6 +5,8 @@ A small, personal website project I made when I first started learning to code. 
 ---
 ## Screenshots 
 
+<img src=HomeScreen.png alt="HomeScreen">
+
 ---
 
 
